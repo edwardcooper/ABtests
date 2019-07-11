@@ -1,4 +1,4 @@
-# peloton
+# AB testing example
 
 All the original data and intermediate data are in the data/ directory, including the python script to generate the analytics data.
 
